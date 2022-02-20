@@ -1,0 +1,5 @@
+n = int(input("digite um número: "))
+print(f"O sucessor desse número é {n+1}, e o antecessor desse número é {n-1}")
+print('='*80)
+nome = input('Digite seu nome:')
+print(f"O seu nome é {nome:=^20}!")

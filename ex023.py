@@ -1,0 +1,6 @@
+n = float(input('Informe um número: '))
+print('Este numero possui')
+print(f'Unidade: {n%10}')
+print(f'Dezena: {(n%100-n%10)/10}')
+print(f'Centena: {(n%1000-n%100)/100}')
+print(f'Milhar : {(n%10000-n%1000)/1000}')

@@ -1,0 +1,5 @@
+c = input('Em que cidade vc nasceu? ').strip()
+c = c.lower()
+c = c.capitalize()
+print('A sua cidade possui "Santo" no nome? Vamos ver:')
+print('Santo' in c[:5])
