@@ -1,0 +1,1 @@
+Este arquivo simula um novo arquivo para a nova versão do projeto ;)
